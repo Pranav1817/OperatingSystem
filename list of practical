@@ -1,0 +1,15 @@
+1. To Study Linux commands for process management and File management.
+2. Write a C program using the file system call of Linux operating System. create, open, close, read, write.
+3. Write a C program using following system calls of Linux operating system: Fork(), wait, sleep, kill, exec, exit, getpid.
+4. Write a C program in Linux to implement following CPU Scheduling algorithm:
+  a. First Come First Serve.
+  b. Shortest job first.
+5. Write a C program in Linux to implement following CPU Scheduling algorithm:
+  a. Priority Scheduling.
+  b. Round Robin.
+6. Write a C program in Linux to implement Process Synchronization Algorithm.
+7. Write a C program in Linux to implement the following Memory Allocation Algorithm.
+  a. First Fit.
+  b. Best Fit.
+  c. Worst Fit.
+8. Write Program for Creating different Viruses through Batch programming and also provide the countermessures for the same.
